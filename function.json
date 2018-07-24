@@ -1,0 +1,5 @@
+{
+    "name": "keepAlive",
+    "schedule": "0 */5 * * * *",
+    "type": "timerTrigger"
+}
